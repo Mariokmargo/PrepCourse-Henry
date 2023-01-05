@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Este es un repositorio de prueba modulo 2
+Esta es una prueba de como crear un repositorio en github y clonarlo al pc
